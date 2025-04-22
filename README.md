@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **netogithub/netogithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-about me
+
+I’m a Telematics Engineer with a specialization in Telecommunications and Computer Science , passionate about designing and building innovative technological solutions that integrate information systems , data networks , and mobile technologies . My expertise lies in developing mobile applications , web services , and telematics systems , as well as managing networks and databases .
 
 
 # 💻 Tech Stack:
